@@ -1,0 +1,5 @@
+C:\Users\Avaros\source\repos\UserInput\UserInput\bin\Debug\UserInput.exe.config
+C:\Users\Avaros\source\repos\UserInput\UserInput\bin\Debug\UserInput.exe
+C:\Users\Avaros\source\repos\UserInput\UserInput\bin\Debug\UserInput.pdb
+C:\Users\Avaros\source\repos\UserInput\UserInput\obj\Debug\UserInput.exe
+C:\Users\Avaros\source\repos\UserInput\UserInput\obj\Debug\UserInput.pdb
