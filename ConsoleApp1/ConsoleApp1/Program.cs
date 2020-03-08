@@ -14,6 +14,7 @@ namespace ConsoleApp1
             string name = "Johnathan";
             Console.WriteLine("Name:"+name);
             Console.WriteLine("Age:"+age);
+            Console.WriteLine("GG");
             Console.ReadLine();
         }
     }
