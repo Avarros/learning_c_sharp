@@ -1,0 +1,11 @@
+C:\Users\Avaros\Github_repos\learning_c_sharp\conversion\bin\Debug\netcoreapp3.1\conversion.exe
+C:\Users\Avaros\Github_repos\learning_c_sharp\conversion\bin\Debug\netcoreapp3.1\conversion.deps.json
+C:\Users\Avaros\Github_repos\learning_c_sharp\conversion\bin\Debug\netcoreapp3.1\conversion.runtimeconfig.json
+C:\Users\Avaros\Github_repos\learning_c_sharp\conversion\bin\Debug\netcoreapp3.1\conversion.runtimeconfig.dev.json
+C:\Users\Avaros\Github_repos\learning_c_sharp\conversion\bin\Debug\netcoreapp3.1\conversion.dll
+C:\Users\Avaros\Github_repos\learning_c_sharp\conversion\bin\Debug\netcoreapp3.1\conversion.pdb
+C:\Users\Avaros\Github_repos\learning_c_sharp\conversion\obj\Debug\netcoreapp3.1\conversion.csprojAssemblyReference.cache
+C:\Users\Avaros\Github_repos\learning_c_sharp\conversion\obj\Debug\netcoreapp3.1\conversion.AssemblyInfoInputs.cache
+C:\Users\Avaros\Github_repos\learning_c_sharp\conversion\obj\Debug\netcoreapp3.1\conversion.AssemblyInfo.cs
+C:\Users\Avaros\Github_repos\learning_c_sharp\conversion\obj\Debug\netcoreapp3.1\conversion.dll
+C:\Users\Avaros\Github_repos\learning_c_sharp\conversion\obj\Debug\netcoreapp3.1\conversion.pdb
